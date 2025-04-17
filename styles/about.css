@@ -7,6 +7,7 @@ body {
 p {
     color: #333333;
     text-align: justify;
+    text-indent: 1em
 }
 
 h2 {
@@ -21,7 +22,7 @@ ul {
 
 h1 {
     color: #3e2f1c;
-    text-align: center;
+    text-align: center
 }
 
 b {
@@ -44,6 +45,5 @@ button {
 
 a {
     text-decoration: none;
-    
-    color: white;
+    color: white
 }
