@@ -1,12 +1,15 @@
 body {
     font-family: Verdana;
     background-color: #fffdf7;
-    padding: 20px;
     text-align: center
 }
 h1 {
     color: #3b2507;
     font-size: 40px
+}
+h2 {
+    color: #3b2507;
+    font-size: 30px
 }
 p {
     font-size: 18px
