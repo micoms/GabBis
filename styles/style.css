@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    font-family: Verdana;
+    background-color: 	#fef9f4
+}
+
+p {
+    color: #333333
+}
+
+h2 {
+    color: #3e2f1c
+}
+
+ul {
+    padding: 0;
+    text-align: center;
+    text-indent: 20px
+}
+
+h1 {
+    color: #3e2f1c
+}
+
+b {
+    color: #e85d04
+}
+
+li {
+    color: 	#333333
+}
+
+button {
+    background-color:#588157;
+    padding: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 10px;
+    border: none;
+    margin: 10px
+}
+
+a {
+    text-decoration: none;
+    
+    color: white;
+}
